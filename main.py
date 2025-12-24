@@ -52,7 +52,6 @@ def actualizar_longitud(val):
     etiqueta_longitud.config(text=f"Longitud: {int(float(val))}")
 
 app = tk.Tk()
-app.iconbitmap("icon.ico")
 app.title("Generador de Contraseñas Seguras")
 app.geometry("560x600")
 app.resizable(False, False)
