@@ -4,8 +4,7 @@ Aplicación sencilla y moderna en **Python** para generar contraseñas seguras d
 
 Permite personalizar la longitud y los tipos de caracteres que se incluirán en la contraseña.
 
-![Demostración de la aplicación](https://via.placeholder.com/800x450.png?text=Demo+Generador+Contraseñas)  
-*(Próximamente: captura o gif real de la aplicación)*
+  <img width="693" height="779" alt="Screenshot 2025-12-23 204218" src="https://github.com/user-attachments/assets/e3644142-bd7e-4897-85e6-2c7fff6d3fb1" />
 
 ## ✨ Características
 
@@ -41,3 +40,4 @@ cd generador-contrasenas
 python main.py
 # o si usas python3 específicamente:
 python3 main.py
+
